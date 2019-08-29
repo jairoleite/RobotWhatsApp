@@ -1,0 +1,5 @@
+[4761:104991:0828/211308.571166:WARNING:leveldb_database.cc(106)] Unable to open /Users/jairoleite/Documents/projetos/python/robot-whatsapp/Perfil/Default/shared_proto_db: Invalid argument: /Users/jairoleite/Documents/projetos/python/robot-whatsapp/Perfil/Default/shared_proto_db: does not exist (create_if_missing is false)
+[4761:775:0828/211308.832539:INFO:CONSOLE(742)] "Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('https://web.whatsapp.com') does not match the recipient window's origin ('chrome-search://local-ntp').", source: chrome-search://most-visited/single.js (742)
+[4761:27651:0828/211445.434654:ERROR:browser_process_sub_thread.cc(203)] Waited 201 ms for network service
+[4761:775:0828/211445.446002:WARNING:pref_notifier_impl.cc(36)] Pref observer for browser.relaunch_notification_period found at shutdown.
+[4761:775:0828/211445.446071:WARNING:pref_notifier_impl.cc(36)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
